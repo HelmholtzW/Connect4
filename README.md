@@ -2,6 +2,8 @@
 
 A compact research playground for experimenting with deep Q-learning variants on the classic **Connect 4** game.
 
+*This project was created during my time at the University of Groningen as part of the Honours Program.*
+
 The repository contains:
 
 * A lightweight Connect 4 environment implemented in pure NumPy
